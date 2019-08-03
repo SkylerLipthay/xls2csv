@@ -1,0 +1,10 @@
+[package]
+name = "xls2csv"
+version = "0.1.0"
+authors = ["Skyler Lipthay <sl@skylerlipthay.com>"]
+edition = "2018"
+
+[dependencies]
+calamine = "0.15"
+csv = "1.1"
+getopts = "0.2"
